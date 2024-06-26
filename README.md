@@ -1,1 +1,1 @@
-It is UML-diagrams for Great Teacher - Mikhailov Evgeniy Mikhailovich
+It is canonical UML-diagrams of Information system for Auto Repair Shop.
